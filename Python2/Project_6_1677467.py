@@ -1,6 +1,6 @@
 #Do problem 4 in page 116 
 #name : Nguyen Duc Tri 
-#troy id : 1677467 
+
  
 print ("Problem 4")
 print ("page 116")
