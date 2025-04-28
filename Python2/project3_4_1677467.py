@@ -1,5 +1,5 @@
 # Name : Nguyen Duc Tri 
-# Troy ID : 1677467 
+
 #problem 4 : 
 #Write a function my_split_matrix(m), where m is an array, the output is a list [m1, m2] where m1 is
 #the left half of m, and m2 is the right half of m. In the case where there is an odd number of columns,
