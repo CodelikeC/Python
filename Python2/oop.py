@@ -1,6 +1,6 @@
 #this is OOP 
 #Nguyen Duc Tri 
-#Location : Ha Noi 
+
 class people () : 
     def _init_(self, name,age) :
 
