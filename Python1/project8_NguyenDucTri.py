@@ -1,5 +1,5 @@
 #Name : Nguyễn Đức Trí 
-#Troy ID : 1677467 
+
 
 #assignment. 
 
