@@ -1,5 +1,5 @@
 #Name : Nguyen Duc Tri 
-#Troy ID : 1677467 
+
 # do problem 1 in page 188 
 import numpy as np 
 items = [
