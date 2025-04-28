@@ -1,5 +1,5 @@
-#name : Đào Hữu Trọng
-#Troy ID : 1684092
+#name : Nguyen Duc Tri
+
 
 #problem 1 
 
@@ -7,7 +7,7 @@ import math
 
 #task 1: Display your name on the screen 
 
-print("Dao Huu Trong")
+print("Nguyen Duc Tri")
 
 #task 2 : Compute and display the factorial 6 
 
