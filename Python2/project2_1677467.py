@@ -5,7 +5,7 @@
 # do slicing [7,12]
 # do slicing [[3,4], [8,9]] 
 
-# Troy ID : 1677467 
+
 # Name : Nguyen Duc Tri 
 
 # ==Problem 1:==
