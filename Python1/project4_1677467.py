@@ -1,5 +1,5 @@
 # do problem 4 in page 88 
-# Name : Nguyễn Đức Trí 
+
 # Troy ID : 1677467 
 
 #Write a function my_make_size10(x) where x is an array, and output is the first 10 elements of x if
