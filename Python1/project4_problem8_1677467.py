@@ -1,4 +1,4 @@
-#troy ID : 1677467 
+
 #name : Nguyễn Đức Trí 
 # Do problem 8 in page 88 
 print ("===problem 8===")
