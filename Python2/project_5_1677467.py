@@ -1,5 +1,5 @@
 #Name : Nguyen Duc Tri 
-#Troy ID : 1677467 
+
 
 #Do problem 3 in page 102 
 
