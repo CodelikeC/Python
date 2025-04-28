@@ -1,7 +1,5 @@
 # do problem 4 in page 88 
 
-# Troy ID : 1677467 
-
 #Write a function my_make_size10(x) where x is an array, and output is the first 10 elements of x if
 #x has more than 10 elements, and output is the array x padded with enough zeros to make it length
 #10 if x has less than 10 elements.
