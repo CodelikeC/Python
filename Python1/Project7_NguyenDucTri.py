@@ -1,7 +1,6 @@
 #do problem 11 on page 133 
 #--------------------------#
 #Name : Nguyen Duc Tri 
-#Troy ID : 1677467
 #Course : CS 2220
 
 print ("Problem 11")
