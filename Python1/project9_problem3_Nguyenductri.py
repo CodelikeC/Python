@@ -1,5 +1,5 @@
 #Name : Nguyễn Đức Trí 
-#Troy ID : 1677467 
+
 #Do problem 3 in page 188
 
 import numpy as np 
