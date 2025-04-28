@@ -1,5 +1,5 @@
 #problem 9 in 217 
-#Troy ID : 1677467 
+
 #Name : Nguyen Duc Tri 
 import numpy as np 
 import matplotlib.pyplot as plt
