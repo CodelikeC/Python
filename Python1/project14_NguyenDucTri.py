@@ -1,4 +1,4 @@
-#Nguyen Duc Tri, Troy ID : 1677467, problem 3 in page 261.  
+#Nguyen Duc Tri, problem 3 in page 261.  
 import numpy as np 
 
 def my_is_orthogonal(v1, v2, tol):
