@@ -1,4 +1,4 @@
-#troy ID : 1677467
+
 #name : Nguyen Duc Tri 
 
 import numpy as np
